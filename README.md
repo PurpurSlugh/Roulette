@@ -12,4 +12,5 @@ Real-time Win/Loss Calculation: Instantly updates your balance based on the spin
 
 To run this program, you need to install the Colorama library to ensure the terminal colors display correctly across different operating systems.
 Install it via pip using the following command:
-pip install colorama
+
+# pip install colorama
