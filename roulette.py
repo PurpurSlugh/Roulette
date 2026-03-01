@@ -5,7 +5,7 @@ init(autoreset=True)
 
 balance = 1000
 RED_NUMBERS = {1, 3, 5, 7, 9, 12, 14, 16, 18, 19, 21, 23, 25, 27, 30, 32, 34, 36}
-MULTIPLIERS = [2, 5, 10, 20, 50, 100, 200, 500]
+MULTIPLIERS = [1.5,2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 50, 100, 200, 500]
 
 def get_styled_num(n):
     if n == 0:
